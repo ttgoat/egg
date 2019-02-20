@@ -1,2 +1,2 @@
-# egg
+# startup
 for learning and test

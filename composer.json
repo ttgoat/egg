@@ -1,0 +1,13 @@
+{
+    "name": "ttgoat/egg",
+    "description": "no description",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "ttgoat\\egg\\":"src/ttgoat/egg"
+        }
+    }
+}

@@ -7,6 +7,6 @@
  */
 require_once './vendor/autoload.php';
 
-use ttgoat\egg\Tools;
+use ttgoat\startup\Tools;
 
 Tools::Hello();

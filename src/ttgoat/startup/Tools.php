@@ -6,8 +6,7 @@
  * Time: 14:31
  */
 
-namespace ttgoat\egg;
-
+namespace ttgoat\startup;
 
 class Tools
 {

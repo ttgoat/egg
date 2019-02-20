@@ -1,7 +1,7 @@
 {
     "name": "ttgoat/startup",
     "description": "no description",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {},

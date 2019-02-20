@@ -3,10 +3,11 @@
  * Created by PhpStorm.
  * User: yangkejian
  * Date: 2019-2-20
- * Time: 14:31
+ * Time: 16:52
  */
 
 namespace ttgoat\startup;
+
 
 class Tools
 {
@@ -14,6 +15,6 @@ class Tools
 
     public static function Hello()
     {
-        echo 'Hello world';
+        echo 'Hello world!';
     }
 }

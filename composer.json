@@ -1,5 +1,5 @@
 {
-    "name": "ttgoat/egg",
+    "name": "ttgoat/startup",
     "description": "no description",
     "type": "project",
     "license": "MIT",
@@ -7,7 +7,7 @@
     "require": {},
     "autoload":{
         "psr-4": {
-            "ttgoat\\egg\\":"src/ttgoat/egg"
+            "ttgoat\\startup\\":"src/ttgoat/startup"
         }
     }
 }
